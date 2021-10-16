@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BonnetDoring
-- 👀 I’m interested in UNREAL C++ programming
-- 🌱 I’m an experienced game designer and programmer
-- 💞️ I’m looking to collaborate on new games on UNREAL
+- 👀 I’m good at UNREAL C++ programming and UNITY C# programming
+- 🌱 I’m an experienced game designer and programmer, I am good at GUI fonctional design
+- 💞️ I’m looking to collaborate on new games on UNREAL and UNITY
 - 📫 How to reach me BONNETDORING@GMAIL.com
 
 <!---
